@@ -1,0 +1,51 @@
+document.addEventListener("DOMContentLoaded", function () {
+    const footerHTML = `
+    <footer>
+    <div class="footBox marginAuto max1440 clearfix">
+    <div class="footnav">
+      <div class="footer-w">
+      <div class="flogo"><img src="uploads/img1/20220517/6283469c86903.png" alt=""></div>
+    <div class="db_c">
+        <dl>
+            <dt>About Us</dt>                <dd>
+            <a href="about-us.html">Group Profile</a><a href="fazhanlicheng.html">Development History</a><a href="jituanrongyu.html">Group Honors</a><a href="chanyebuju.html">Industrial layout</a>                                <a href="news.html">News</a>                </dd>
+        </dl>
+        <dl>
+            <dt>Product Center</dt>
+            <dd>
+            <a href="download.html">FA industrial automation parts</a><a href="zhizaiju.html">Vehicle</a><a href="zidonghua.html">Automation equipment</a>                </dd>            </dl>
+        <dl>
+            <dt>Technical Support</dt>
+            <dd>
+            <a href="solution.html">Industry Solutions</a><a href="fuwutixi.html">Service System</a><a href="download.html">Downloads</a>                </dd>            </dl>
+    </div>
+    <div class="footer-three">
+        <h5>Contact Us</h5>
+        <ul class="footer-m-ul">
+            <li>Contact Number：0755-23732760</li>
+            <li>Customer Service Hours: Monday to Friday 09:00-18:30</li>
+            <li>Company Address: Room 2701, Building C, Minzhi Shares Commercial Center, Beizhan Community, Minzhi Street, Longhua District, Shenzhen</li>
+            <li>Email：service@wodtop.com</li>
+        </ul>
+    </div>
+    <div class="footer-three ewmbox">
+        <div class="footer-gzh">
+            <img src="uploads/img1/20220520/6287508ca6e2e.jpg">
+            <p>Official WeChat</p>
+        </div>
+    </div>
+</div>
+    </div>
+    <div class="copyRightBg width100 text-uppercase">
+      <div class="container">
+        <div class="pull-left">Copyright © 2023 Shenzhen Tianyi Intelligent Technology Co., Ltd. All rights reserved
+<script type="text/javascript" src="../js.users.51.la/21374323.js"></script> <a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank">Hubei ICP No. 18028278</a> </div>
+      </div>
+    </div>
+    </div>
+</footer>
+    `;
+  
+    document.body.insertAdjacentHTML("beforeend", footerHTML);
+  });
+  
