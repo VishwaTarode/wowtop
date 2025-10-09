@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function () {
     </div>
     <div class="copyRightBg width100 text-uppercase">
       <div class="container">
-        <div class="pull-left">Copyright © 2023 Shenzhen Tianyi Intelligent Technology Co., Ltd. All rights reserved
+        <div class="pull-left">Copyright © 2025 WOWTOP, Ltd. All rights reserved
 <script type="text/javascript" src="../js.users.51.la/21374323.js"></script> <a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank">Hubei ICP No. 18028278</a> </div>
       </div>
     </div>
